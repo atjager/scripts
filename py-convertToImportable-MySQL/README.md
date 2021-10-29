@@ -1,5 +1,5 @@
 # convertToImportable
-To create MySQL importable format from the following structure:
+To create MySQL importable format from the following (tab separeted) structure:
 
 ```
 id	hely	tipus	ipcim
