@@ -21,5 +21,5 @@ INSERT INTO gep(id,hely,tipus,ipcim) VALUES ('3','T302','asztali','192.168.2.3')
 - Third cli argument: table name
 
 ```
-python3 path-to-file\filename.txt path-to-output-file\filename.sql tablename
+python3 convertToImportable.py path-to-file\filename.txt path-to-output-file\filename.sql tablename
 ```
